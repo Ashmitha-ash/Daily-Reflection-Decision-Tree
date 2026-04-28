@@ -1,0 +1,8 @@
+id,type,text,options,signal
+START,start,Good evening! Let's review how you navigated today.,,
+A1_Q1,question,When a challenge arose today, how did you view it?,"It was a hurdle I could jump|It was a wall blocking me|It was someone else's fault to fix",axis1:internal|axis1:external|axis1:external
+A1_R1,reflection,Acknowledging your agency is the first step toward a Victor mindset.,,axis1:internal
+A2_Q1,question,Did you focus more on what you earned or what you gave today?,"I helped a teammate succeed|I felt I deserved more credit|I just did my job",axis2:contribution|axis2:entitlement|axis2:neutral
+A3_Q1,question,Who was at the center of your biggest stress today?,"Only my own goals|My team's collective success|The customer we serve",axis3:self|axis3:altro|axis3:altro
+SUMMARY,summary,Today you showed a high radius of concern. Keep building that perspective.,,
+END,end,Great work. See you tomorrow.,,
